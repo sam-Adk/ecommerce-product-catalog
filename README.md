@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
   # E-Commerce Product Catalog
 
@@ -9,3 +10,6 @@
 
   Run `npm run dev` to start the development server.
   
+=======
+# ecommerce-product-catalog
+>>>>>>> 3476d1f475c7a1086844613de49ac592b65d084d
